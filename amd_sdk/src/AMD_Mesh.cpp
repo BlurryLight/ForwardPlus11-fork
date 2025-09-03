@@ -33,6 +33,7 @@
 #include "..\\..\\DXUT\\Core\\DDSTextureLoader.h"
 #include "crc.h"
 #endif
+#include <string>
 
 #pragma warning (disable : 4996)
 
